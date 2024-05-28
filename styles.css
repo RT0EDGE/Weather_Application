@@ -1,0 +1,45 @@
+/* Add your cloudy interface styles here */
+/* ... */
+
+body {
+    background-color: #f0f0f0; /* Light gray background */
+    /* Or use a cloud image as the background */
+    /* background-image: url('clouds.jpg'); */
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5); /* Transparent white background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Soft box shadow */
+    margin-top: 105px;
+}
+.footer {
+    font-size: 12px;
+    color: #888;
+    margin-top: 20px;
+}
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    /* Add any additional styling you like */
+}
+
+button {
+    background-color: #007BFF; /* Blue button */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+h1 {
+    font-size: 24px;
+    /* Add font-family and other styles */
+}
+
